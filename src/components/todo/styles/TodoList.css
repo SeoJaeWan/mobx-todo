@@ -1,0 +1,16 @@
+.todo-input-container {
+  display: flex;
+}
+
+.todo-input {
+  width: 90%;
+
+  font-size: 2rem;
+}
+
+.todo-input-button {
+  width: 10%;
+
+  border: none;
+  background-color: #fff;
+}
